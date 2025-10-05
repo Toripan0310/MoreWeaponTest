@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "moreweaponmod:block/orihalcon_block"
+  }
+}
